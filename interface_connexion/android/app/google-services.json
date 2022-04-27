@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "667544907368",
+    "firebase_url": "https://ludogift-2e707-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ludogift-2e707",
+    "storage_bucket": "ludogift-2e707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667544907368:android:2af2b7ff875a306d0455dd",
+        "android_client_info": {
+          "package_name": "com.example.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667544907368-d4k8hlh3t9f5q9o90oikvdv0n55e4s17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.form",
+            "certificate_hash": "5bc5910383954951b80323ac8f3d611a8e9ef5b0"
+          }
+        },
+        {
+          "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXvugqmc4SuvZFEkh0-35Sj83nYBUmrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667544907368:android:96a135607ef2c0cc0455dd",
+        "android_client_info": {
+          "package_name": "com.example.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXvugqmc4SuvZFEkh0-35Sj83nYBUmrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667544907368:android:7b92bffc2745efee0455dd",
+        "android_client_info": {
+          "package_name": "com.example.pageprofil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXvugqmc4SuvZFEkh0-35Sj83nYBUmrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667544907368:android:a7474f3fbe3ae2460455dd",
+        "android_client_info": {
+          "package_name": "fr.gameprize.ludogift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXvugqmc4SuvZFEkh0-35Sj83nYBUmrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667544907368-0ltgrnrig00k88lanm09dvsrvhcvfn8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
